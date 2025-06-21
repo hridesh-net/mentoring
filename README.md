@@ -65,5 +65,5 @@ These are the number of successful internships per year for each program.
 
 Please note that CNCF Mentoring programs follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
-## Thank you for participating in the CNCF Mentoring Program!
+## Thank you for participating in the CNCF Mentoring Programs!
 
